@@ -37,7 +37,7 @@ You should attempt to complete this challenge without looking at any other resou
   ```
 - Run the command `npm run migrate -- 1` to create the database tables
 - run the command `npm t`
-- You should see output from 10 integration tests, all will be passing.
+- You should see output from 10 integration tests, some will be failing.
 
 ## Exercise
 Add the GET endpoint to this application
